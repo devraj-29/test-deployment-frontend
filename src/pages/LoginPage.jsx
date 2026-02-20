@@ -53,7 +53,7 @@ export default function LoginPage() {
   return (
     <div className="page">
       <div className="card">
-        <h1>Login page11v</h1>
+        <h1>Login page</h1>
         <p className="muted">Project 2: Role-based auth + refresh token</p>
 
         <form onSubmit={onSubmit} className="form">
